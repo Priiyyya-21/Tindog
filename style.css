@@ -140,16 +140,7 @@ text-align:center;
     margin:20px 10px;
 }
 
-/* media Query breakPoint */
-@media (max-width :1012px){
-    #title{
-        text-align: center;
-    }
- .title-image{
-    position:static;
-    transform: rotate(0);
- }
-}
+
 
 
 
